@@ -5,10 +5,7 @@ package model;
 
 import screen.FormMenu;
 
-/**
- *
- * @author Ngo Thanh
- */
+
 public class App {
 
     public static void main(String[] args) {

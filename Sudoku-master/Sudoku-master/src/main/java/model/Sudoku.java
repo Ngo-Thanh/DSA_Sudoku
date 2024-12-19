@@ -6,10 +6,7 @@ package model;
 
 import java.util.Random;
 
-/**
- *
- * @author baduy
- */
+
 public final class Sudoku {
 
     private int sudoku[][];

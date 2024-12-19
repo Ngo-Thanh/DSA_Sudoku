@@ -14,10 +14,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import screen.FormSudoku;
 
-/**
- *
- * @author baduy
- */
 public class TableNumbers extends JPanel {
 
     private int txtWidth;

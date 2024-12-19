@@ -9,10 +9,7 @@ import display.TableSudoku;
 import java.awt.Color;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author baduy
- */
+
 public final class FormCreateSudoku extends javax.swing.JFrame {
 
     public static TableSudoku tableSudoku;

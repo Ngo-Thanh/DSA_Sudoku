@@ -18,10 +18,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import model.Sudoku;
 
-/**
- *
- * @author baduy
- */
+
 public class TableSudoku extends JPanel {
 
     private JTextField[][] listTxt;

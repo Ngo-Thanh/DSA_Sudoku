@@ -8,10 +8,7 @@ import display.TableSudoku;
 import java.awt.Color;
 import javax.swing.*;
 
-/**
- *
- * @author baduy
- */
+
 public class FormLevels extends javax.swing.JFrame {
 
     private final TableSudoku tableSudoku;

@@ -8,10 +8,7 @@ import java.awt.Color;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author baduy
- */
+
 public class FormMenu extends javax.swing.JFrame {
 
     public FormMenu() {
